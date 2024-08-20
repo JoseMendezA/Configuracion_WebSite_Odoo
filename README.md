@@ -42,7 +42,7 @@ Odoo te permite crear páginas web dinámicas mediante bloques de creación. Pue
 3. Arrastra el bloque al área deseada de la página.
 4. Personaliza el contenido dentro del bloque según tus necesidades. :airplane:
 
-<img src="https://github.com/user-attachments/assets/dc65ee54-c0c8-4b0f-9619-5297e8856e73" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/dc65ee54-c0c8-4b0f-9619-5297e8856e73" width="600" height="300">
    
 Si deseas agregar filtros o efectos en las imágenes, simplemente selecciona el bloque de imagen y ajusta las opciones desde el panel.
 
