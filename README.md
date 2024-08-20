@@ -16,13 +16,16 @@ Configuración de una tienda en línea básica utilizando Odoo.
 
 ### Paso 1: Habilitar la Función de Creación de Texto con IA
 - [X] Crea textos increíbles con ChatGPT. Con una simple instrucción puedes pedirle a Odoo que genere, mejore o cambie el tono del contenido de tu sitio web.
-- [X] Odoo permite la integración de módulos de Inteligencia Artificial (IA) para generar contenido textual automáticamente en la página web. Sigue los siguientes pasos:
+- [X] Odoo permite la integración de módulos de Inteligencia Artificial (IA) para generar contenido textual automáticamente en la página web.
+- [ ] Sigue los siguientes pasos:
 
 1. Dirígete a la página web que deseas editar.
 2. Haz clic en el botón **Editar** en la parte superior derecha de la página.
-3. Selecciona el bloque de texto en el que desees utilizar la IA.
-4. En el menú del bloque, selecciona la opción **Generar Texto con IA**.
-5. Especifica las directrices para el contenido y elige el estilo de escritura que prefieras.
+> [!WARNING]
+> ![image](https://github.com/user-attachments/assets/5fa1dc08-e9a5-4d16-b105-594b2eb513e9)
+4. Selecciona el bloque de texto en el que desees utilizar la IA.
+5. En el menú del bloque, selecciona la opción **Generar Texto con IA**.
+6. Especifica las directrices para el contenido y elige el estilo de escritura que prefieras.
 
 <img src="https://github.com/user-attachments/assets/4cfc139c-d2bb-4074-b1bc-7b42ed5d41e2" width="800" height="400">
 
@@ -37,7 +40,9 @@ Odoo te permite crear páginas web dinámicas mediante bloques de creación. Pue
 1. En el modo de edición, selecciona la opción **Bloques de Creación** desde el panel de la derecha.
 2. Elige el bloque que desees, como **Título**, **Texto** o **Imágenes**.
 3. Arrastra el bloque al área deseada de la página.
-4. Personaliza el contenido dentro del bloque según tus necesidades.
+4. Personaliza el contenido dentro del bloque según tus necesidades. :airplane:
+
+<img src="https://github.com/user-attachments/assets/dc65ee54-c0c8-4b0f-9619-5297e8856e73" width="800" height="400">
    
 Si deseas agregar filtros o efectos en las imágenes, simplemente selecciona el bloque de imagen y ajusta las opciones desde el panel.
 
@@ -73,7 +78,8 @@ Para insertar el logo de tu empresa en la página web, sigue estos pasos:
 4. Elige el archivo del logo de tu empresa desde tu dispositivo.
 5. Ajusta el tamaño y la posición del logo según sea necesario.
 
-> **Consejo:** El logo debe estar en formato PNG o SVG para obtener mejores resultados visuales.
+> [!CAUTION]
+> El logo debe estar en formato PNG o SVG para obtener mejores resultados visuales.
 
 ## 5. Personalizar los Enlaces de los Botones
 
@@ -82,7 +88,10 @@ Para cambiar los enlaces de los botones en tu página web en Odoo, sigue estos p
 
 1. Haz clic en el botón que deseas editar mientras estás en modo de edición.
 2. Aparecerá un menú de configuración. Selecciona la opción **Enlace**.
-3. Puedes configurar el botón para que dirija a una página específica escribiendo el nombre de la página o buscando una página existente.
+3. Puedes configurar el botón para que dirija a una página específica escribiendo el nombre de la página o buscando una página existente a traves de "/".
+
+<img src="https://github.com/user-attachments/assets/dbe9998a-bbdb-462b-94ff-5b8e828e3dcc" width="800" height="400">
+   
 4. Para vincular a una sección dentro de la misma página, escribe `#` seguido del nombre del ancla que has configurado previamente.
 5. Guarda los cambios para que se reflejen en la página web.
 
