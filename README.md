@@ -95,6 +95,90 @@ Para cambiar los enlaces de los botones en tu página web en Odoo, sigue estos p
 4. Para vincular a una sección dentro de la misma página, escribe `#` seguido del nombre del ancla que has configurado previamente.
 5. Guarda los cambios para que se reflejen en la página web.
 
+
+## 6. Configuración del Blog en la Página Web de Odoo
+
+Este módulo te llevará a través del proceso de configuración de un blog en la página web de Odoo, permitiéndote crear y gestionar publicaciones de blog directamente desde tu sitio web.
+
+### Paso 1: Activar el Módulo de Blog
+
+Para comenzar, necesitas asegurarte de que el módulo de **Blog** esté activado en tu instancia de Odoo. Sigue estos pasos:
+
+1. Navega al **Panel de Aplicaciones** en Odoo.
+2. Busca el módulo **Blog** en la lista de aplicaciones disponibles.
+3. Si aún no está instalado, haz clic en el botón **Instalar** para habilitar el módulo de Blog.
+
+### Paso 2: Crear un Nuevo Blog
+
+Una vez que el módulo de Blog esté activado, puedes proceder a crear un nuevo blog:
+
+1. Desde el **Panel de Blogs**, selecciona **Crear**.
+
+<img src="https://github.com/user-attachments/assets/a8836134-5d58-464a-a1b4-0a8ba7f76ce3" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/443b54ce-1cb1-4c0b-8032-e09c1fb203db" width="600" height="300">
+
+
+
+2. Introduce el nombre de tu blog en el campo correspondiente (por ejemplo: "Noticias de la Empresa").
+3. Guarda el blog para comenzar a añadir publicaciones.
+
+### Paso 3: Añadir una Nueva Publicación de Blog
+
+Para crear contenido en tu blog, sigue estos pasos:
+
+1. Abre el blog que acabas de crear o uno existente.
+2. Haz clic en el botón **Nueva Publicación**.
+3. Rellena los campos siguientes:
+   - **Título:** El nombre de la publicación.
+   - **Cuerpo del artículo:** El contenido principal del artículo de blog. Puedes formatear el texto, agregar imágenes, videos, y otros elementos multimedia utilizando las herramientas de edición disponibles.
+
+<img src="https://github.com/user-attachments/assets/5f76fa99-3bec-4cb4-89b6-f1e8fd33c3f6" width="600" height="300">
+     
+   - **Etiquetas:** Añade etiquetas relevantes para clasificar la publicación y facilitar la búsqueda.
+
+4. Opcionalmente, puedes programar la publicación para una fecha futura o publicarla inmediatamente haciendo clic en **Publicar**.
+
+### Paso 4: Configuración de la Página del Blog
+
+Puedes personalizar el diseño y la configuración de la página principal de tu blog de la siguiente manera:
+
+1. Entra en el **Modo de Edición** de la página web.
+2. Navega a la sección de blogs y haz clic en el botón **Editar**.
+3. Utiliza los **Bloques de Creación** para agregar o reorganizar elementos en la página del blog, como títulos, imágenes destacadas, o secciones de comentarios.
+4. Personaliza el diseño de la página usando las herramientas de diseño de Odoo, como el cambio de fuentes, colores y estilos de los bloques.
+
+### Paso 5: Promoción del Blog
+
+Promociona tu blog directamente desde Odoo para llegar a más audiencias:
+
+1. En la página de edición del blog, busca la opción **Promocionar** en la barra superior.
+2. Selecciona los canales de promoción deseados, como correo electrónico, redes sociales, o notificaciones push.
+3. También puedes habilitar el **SEO** para optimizar la visibilidad del blog en los motores de búsqueda. Asegúrate de rellenar los campos de título, descripción, y palabras clave relevantes para el SEO.
+
+### Paso 6: Gestión de Comentarios
+
+El módulo de Blog en Odoo permite la interacción con los lectores mediante comentarios en las publicaciones. Para gestionar los comentarios:
+
+1. Dirígete a la página de configuración del blog.
+2. Activa la opción de **Comentarios** si aún no está habilitada.
+3. Los comentarios pueden moderarse desde el panel de administración de blog, donde puedes aprobar, eliminar o responder a los comentarios de los lectores.
+
+> [!WARNING]
+> Activa la moderación de comentarios para garantizar que los comentarios inapropiados no se publiquen automáticamente.
+
+### Paso 7: Mantenimiento del Blog (a manera informativa)
+
+> [!NOTE]
+> Es importante mantener el blog actualizado y organizado. A continuación, algunas buenas prácticas:
+
+- **Frecuencia de Publicación:** Define un calendario de publicaciones y mantenlo constante.
+- **Actualización de Contenido Antiguo:** Revisa publicaciones antiguas periódicamente para actualizarlas con información nueva.
+- **Monitoreo de Rendimiento:** Utiliza las herramientas de análisis de Odoo para ver las estadísticas de visitas, tiempo en página y rendimiento de las publicaciones del blog.
+
+> [!IMPORTANT]
+> Con esta guía, ahora puedes crear, personalizar y gestionar un blog en tu página web de Odoo. El blog es una excelente herramienta para interactuar con tus clientes y aumentar la visibilidad de tu empresa.
+
+
 ## Otros Requerimientos de Personalización
 
 Puedes realizar más personalizaciones en la página web y el módulo de comercio electrónico:
