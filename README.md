@@ -117,9 +117,10 @@ Una vez que el módulo de Blog esté activado, puedes proceder a crear un nuevo 
 <img src="https://github.com/user-attachments/assets/a8836134-5d58-464a-a1b4-0a8ba7f76ce3" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/443b54ce-1cb1-4c0b-8032-e09c1fb203db" width="600" height="300">
 
-
-
 2. Introduce el nombre de tu blog en el campo correspondiente (por ejemplo: "Noticias de la Empresa").
+
+![image](https://github.com/user-attachments/assets/81708b96-8a10-470b-8ada-6e2812b9bd96)
+   
 3. Guarda el blog para comenzar a añadir publicaciones.
 
 ### Paso 3: Añadir una Nueva Publicación de Blog
@@ -153,7 +154,10 @@ Promociona tu blog directamente desde Odoo para llegar a más audiencias:
 
 1. En la página de edición del blog, busca la opción **Promocionar** en la barra superior.
 2. Selecciona los canales de promoción deseados, como correo electrónico, redes sociales, o notificaciones push.
-3. También puedes habilitar el **SEO** para optimizar la visibilidad del blog en los motores de búsqueda. Asegúrate de rellenar los campos de título, descripción, y palabras clave relevantes para el SEO.
+
+<img src="https://github.com/user-attachments/assets/e77b6f70-b6b9-4dfc-ae5a-b49dc0138948" width="700" height="300">
+
+4. También puedes habilitar el **SEO** para optimizar la visibilidad del blog en los motores de búsqueda. Asegúrate de rellenar los campos de título, descripción, y palabras clave relevantes para el SEO.
 
 ### Paso 6: Gestión de Comentarios
 
